@@ -1,0 +1,53 @@
+{
+	"blog": {
+		"blogger_id": "5977388359844270210",
+		"api_key": "AIzaSyAzxMFMRBVOrC5SaVJr4KxVZigwsuG-SMg"
+	},
+	"app": {
+		"status": "1",
+		"more_apps_url": "Hutto",
+		"redirect_url": "",
+		"privacy_policy_url": "https://www.oturnnews.com/p/privacy-policy.html?m=1",
+		"publisher_info_url": "https://www.oturnnews.com/p/about-us.html?m=1",
+		"terms_conditions_url": "https://www.oturnnews.com/p/terms-and-conditions-of-use.html?m=1",
+		"display_page_menu": "true",
+		"display_view_on_site_menu": "true",
+		"custom_label_list": "true"
+	},
+	"notification": {
+		"fcm_notification_topic": "blogger_news_app_topic",
+		"onesignal_app_id": "9856ea5b-4f76-4d97-b8f4-293165ba2576"
+	},
+	"ads": {
+		"ad_status": "1",
+		"ad_type": "admob",
+		"admob_publisher_id": "pub-4636860968968327",
+		"admob_app_id": "ca-app-pub-4636860968968327~5635967269",
+		"admob_banner_unit_id": "ca-app-pub-4636860968968327/9817425864",
+		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native_unit_id": "ca-app-pub-4636860968968327/4389538042",
+		"admob_app_open_ad_unit_id": "ca-app-pub-4636860968968327/9330588127",
+		"startapp_app_id": "0",
+		"unity_game_id": "4089993",
+		"unity_banner_placement_id": "banner",
+		"unity_interstitial_placement_id": "video",
+		"applovin_banner_ad_unit_id": "0",
+		"applovin_interstitial_ad_unit_id": "0",
+		"mopub_banner_ad_unit_id": "b195f8dd8ded45fe847ad89ed1d016da",
+		"mopub_interstitial_ad_unit_id": "24534e1901884e398f1253216226017e",
+		"interstitial_ad_interval": 3,
+		"native_ad_interval": 10,
+		"native_ad_index": 5
+	},
+	"labels": [
+		{
+			"term": "PornStars",
+			"image": "https://files.fm/thumb_show.php?i=a9vxbvb5b"
+		},
+		{
+			"term": "MR.Mala",
+			"image": "https://files.fm/thumb_show.php?i=4eg2f6kc8"
+		}
+	
+	]
+}
